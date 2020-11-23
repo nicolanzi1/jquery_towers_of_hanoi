@@ -1,0 +1,25 @@
+{
+  "name": "nicola_lanzillotta_jquery_towers_of_hanoi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolanzi1/jquery_towers_of_hanoi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://nicolanzi1.github.io/jquery_towers_of_hanoi",
+  "bugs": {
+    "url": "https://github.com/nicolanzi1/jquery_towers_of_hanoi/issues"
+  },
+  "homepage": "https://github.com/nicolanzi1/jquery_towers_of_hanoi#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
